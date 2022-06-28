@@ -2,7 +2,7 @@
  * @author CobolJunkie 2022
  *
  */
-package com.coboljunkie.lotto;
+package com.coboljunkie.GFN.lotto;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

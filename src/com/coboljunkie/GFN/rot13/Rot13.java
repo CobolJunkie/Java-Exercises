@@ -1,4 +1,4 @@
-package com.coboljunkie.rot13;
+package com.coboljunkie.GFN.rot13;
 
 public class Rot13 {
     public static void main(String[] args){

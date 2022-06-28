@@ -1,4 +1,4 @@
-package com.coboljunkie.sorting;
+package com.coboljunkie.GFN.sorting;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,7 +7,7 @@ import java.util.List;
  * Bubblesort and SelectionSort
  *
  */
-public  class main {
+public  class Sorting {
     static List<Integer> selectionSet = new ArrayList<Integer>();
 
 

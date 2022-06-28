@@ -1,4 +1,4 @@
-package com.coboljunkie.chess;
+package com.coboljunkie.GFN.chess;
 
 
 public class Springer extends Figur {

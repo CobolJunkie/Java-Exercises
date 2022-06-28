@@ -1,6 +1,8 @@
-package com.coboljunkie.chess;
+package com.coboljunkie.GFN.chess;
 
-public class Turm extends Figur {
+
+
+public class Bishop extends Figur {
 
     /**
      * @param startX
@@ -16,8 +18,8 @@ public class Turm extends Figur {
         boolean valid = false;
         // possible moves:
         //  x+2,y+1
-        if (( x >= 1 && x <= 7 ) && (y == 0)) valid = true;
-        if (( y >= 1 && x <= 7 ) && (x == 0)) valid = true;
+        if (x/y == 1) valid = true;
+        if (x/y == -1) valid = true;
 
         if (endX < 1 || endX > 7 || endY < 1 || endY > 7) valid = false;
 

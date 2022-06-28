@@ -14,7 +14,7 @@
  * Author:
  *
  */
-package com.coboljunkie.randomcharacter;
+package com.coboljunkie.GFN.randomcharacter;
 import java.util.Random;
 import java.util.ArrayList;
 
