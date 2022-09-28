@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="fluege@localhost [2]">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.43">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <ServerVersion>8.0.29</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="erdkunde"/>
+    <schema id="3" parent="1" name="exercise_02"/>
+    <schema id="4" parent="1" name="exercise_03"/>
+    <schema id="5" parent="1" name="exercise_04"/>
+    <schema id="6" parent="1" name="exercise_05"/>
+    <schema id="7" parent="1" name="exercise_06"/>
+    <schema id="8" parent="1" name="exercise_07"/>
+    <schema id="9" parent="1" name="exercise_08"/>
+    <schema id="10" parent="1" name="exercise_09"/>
+    <schema id="11" parent="1" name="firmenbelegschaft"/>
+    <schema id="12" parent="1" name="fluege">
+      <Current>1</Current>
+    </schema>
+    <schema id="13" parent="1" name="information_schema"/>
+    <schema id="14" parent="1" name="knowledgebase"/>
+    <schema id="15" parent="1" name="mysql"/>
+    <schema id="16" parent="1" name="performance_schema"/>
+    <schema id="17" parent="1" name="project"/>
+    <schema id="18" parent="1" name="sys"/>
+    <schema id="19" parent="1" name="universitaet"/>
+    <schema id="20" parent="1" name="unterrichtmai"/>
+    <schema id="21" parent="1" name="vt4_datenbank_nc"/>
+    <schema id="22" parent="1" name="vt4_demo_nc"/>
+  </database-model>
+</dataSource>
