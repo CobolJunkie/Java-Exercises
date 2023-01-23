@@ -1,4 +1,4 @@
-package com.coboljunkie.mcu.CarpetCalculator;
+package com.coboljunkie.mcu.section_7.exercise_34;
 
 public class Carpet {
     private double cost;

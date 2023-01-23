@@ -1,4 +1,4 @@
-package com.coboljunkie.mcu.misc;
+package com.coboljunkie.mcu.section_7.exercise_32;
 
 public class Wall {
     private double width;

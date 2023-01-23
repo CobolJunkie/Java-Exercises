@@ -1,4 +1,4 @@
-package com.coboljunkie.mcu.ComplexMath;
+package com.coboljunkie.mcu.section_7.exercise_35;
 public class ComplexNumber {
     private double real;
     private double imaginary;

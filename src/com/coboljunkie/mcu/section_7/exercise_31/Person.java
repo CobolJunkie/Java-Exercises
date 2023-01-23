@@ -1,4 +1,4 @@
-package com.coboljunkie.mcu.misc;
+package com.coboljunkie.mcu.section_7.exercise_31;
 
 public class Person {
     private String firstName;

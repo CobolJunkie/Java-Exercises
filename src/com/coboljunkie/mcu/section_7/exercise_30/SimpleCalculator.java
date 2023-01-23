@@ -1,4 +1,4 @@
-package com.coboljunkie.mcu.misc;
+package com.coboljunkie.mcu.section_7.exercise_30;
 
 public class SimpleCalculator {
     private double firstNumber;
