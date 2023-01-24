@@ -2,7 +2,7 @@ package com.coboljunkie.umc.section_5.exercise_01;
 /** This class contains a method to evaluate an integer and output the results to console
  *
  * @author Coboljunkie
- * @author <a href="mailto:cj@coboljunkie.com">cj@coboljunkie.com</a>
+ * @author cj at coboljunkie.com
  * @version 0.1
  **/
 
