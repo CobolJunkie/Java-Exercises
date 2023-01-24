@@ -11,6 +11,7 @@ public class BarkingDog {
      * @param barking boolean - determines if the dog is barking
      * @param hourOfDay int - time of day in hours (24h format)
      * @return true if it is necessary to wake up
+     * @since 0.1
      */
     public static boolean shouldWakeUp(boolean barking,int hourOfDay) {
         if (hourOfDay < 0 || hourOfDay > 23) {

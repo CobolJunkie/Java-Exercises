@@ -11,6 +11,7 @@ public class DecimalComparator {
      * @param num1 first number to compare
      * @param num2 second number to compare
      * @return true if the numbers match
+     * @since v.01
      */
         public static boolean areEqualByThreeDecimalPlaces(double num1,double num2){
             return (int) (num1 * 1000) == (int) (num2 * 1000);

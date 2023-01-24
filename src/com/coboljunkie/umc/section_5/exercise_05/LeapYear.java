@@ -11,6 +11,7 @@ public class LeapYear {
      *
      * @param year year in int format
      * @return true if the passed year is a leap year
+     * @since 0.1
      */
     public static boolean isLeapYear(int year){
         if (year < 1 || year > 9999) return false;
