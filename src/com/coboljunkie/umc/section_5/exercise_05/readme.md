@@ -29,13 +29,13 @@ This is because they are evenly divisible by both 100 and 400.
 
 Examples of input/output:
 
-isLeapYear(-1600); → should return false since the parameter is not in range (1-9999)
+<li>isLeapYear(-1600); → should return false since the parameter is not in range (1-9999)</li>
 
-isLeapYear(1600); → should return true since 1600 is a leap year
+<li>isLeapYear(1600); → should return true since 1600 is a leap year</li>
 
-isLeapYear(2017); → should return false since 2017 is not a leap year
+<li>isLeapYear(2017); → should return false since 2017 is not a leap year</li>
 
-isLeapYear(2000);  → should return true because 2000 is a leap year
+<li>isLeapYear(2000);  → should return true because 2000 is a leap year</li>
 
-NOTE: The method isLeapYear needs to be defined as public static ​like we have been doing so far in the course.
-NOTE: Do not add a  main method to solution code.
+NOTE: The method isLeapYear needs to be defined as public static like we have been doing so far in the course.<br>
+NOTE: Do not add a  main method to solution code.<br>

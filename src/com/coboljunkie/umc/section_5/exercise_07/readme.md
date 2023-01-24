@@ -7,11 +7,11 @@ The method should return boolean and it needs to return true if the sum of the f
 
 EXAMPLES OF INPUT/OUTPUT:
 
-<li>hasEqualSum(1, 1, 1);  should return false since 1 + 1 is not equal to 1
+<li>hasEqualSum(1, 1, 1);  should return false since 1 + 1 is not equal to 1</li>
 
-<li>hasEqualSum(1, 1, 2);  should return true since 1 + 1 is equal to 2
+<li>hasEqualSum(1, 1, 2);  should return true since 1 + 1 is equal to 2</li>
 
-<li>hasEqualSum(1, -1, 0);  should return true since 1 + (-1) is 1 - 1 and is equal to 0
+<li>hasEqualSum(1, -1, 0);  should return true since 1 + (-1) is 1 - 1 and is equal to 0</li>
 
 <br>
 <br>

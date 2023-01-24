@@ -9,11 +9,11 @@ The method should return boolean and it needs to return true if one of the param
 
 EXAMPLES OF INPUT/OUTPUT:
 
-<li>hasTeen(9, 99, 19);  should return true since 19 is in range 13 - 19
+<li>hasTeen(9, 99, 19);  should return true since 19 is in range 13 - 19</li>
 
-<li>hasTeen(23, 15, 42);  should return true since 15 is in range 13 - 19
+<li>hasTeen(23, 15, 42);  should return true since 15 is in range 13 - 19</li>
 
-<li>hasTeen(22, 23, 34);  should return false since numbers 22, 23, 34 are not in range 13-19
+<li>hasTeen(22, 23, 34);  should return false since numbers 22, 23, 34 are not in range 13-19</li>
 <br>
 <br>
 
@@ -23,9 +23,9 @@ The method should return boolean and it needs to return true if the parameter is
 <br><br>
 EXAMPLES OF INPUT/OUTPUT:
 
-<li>isTeen(9);  should return false since 9 is in not range 13 - 19
+<li>isTeen(9);  should return false since 9 is in not range 13 - 19</li>
 
-<li>isTeen(13);  should return true since 13 is in range 13 - 19
+<li>isTeen(13);  should return true since 13 is in range 13 - 19</li>
 
 <br><br>
 
