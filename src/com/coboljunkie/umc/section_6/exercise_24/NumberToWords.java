@@ -1,11 +1,15 @@
 package com.coboljunkie.umc.section_6.exercise_24;
-/** This class checks if a number
+/** This class converts a number to words and prints them out on the console
  *
  * @author Coboljunkie
  * @author cj at coboljunkie.com
  * @version 0.1
  **/
 public class NumberToWords {
+    /**
+     * This method converts numbers to words and prints the to console in reverse order
+     * @param number the number to be converted
+     */
     public static void numberToWords(int number){
         if(number<0) System.out.print("Invalid Value");
         int count = getDigitCount(number);
