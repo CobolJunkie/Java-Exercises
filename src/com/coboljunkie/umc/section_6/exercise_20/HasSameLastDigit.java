@@ -5,7 +5,7 @@ package com.coboljunkie.umc.section_6.exercise_20;
  * @author cj at coboljunkie.com
  * @version 0.1
  **/
-public class hasSameLastDigit {
+public class HasSameLastDigit {
     /** This method compares the last digit of three given numbers
      *
      * @param number1 the first number to compare

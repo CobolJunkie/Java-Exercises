@@ -5,7 +5,7 @@ package com.coboljunkie.umc.section_6.exercise_21;
  * @author cj at coboljunkie.com
  * @version 0.1
  **/
-public class printFactors {
+public class PrintFactors {
     /** this method calculates all factors of a given parameter and prints them out on console
      *
      * @param number the number to derive factors from
