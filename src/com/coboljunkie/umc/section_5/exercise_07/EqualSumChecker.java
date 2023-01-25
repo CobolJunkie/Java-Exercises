@@ -12,7 +12,7 @@ public class EqualSumChecker {
      * @param num2 second number to tbe summed up
      * @param num3 number to compare the sum to
      * @return
-     * since 0.1
+     * @since 0.1
      */
     public static boolean hasEqualSum (int num1, int num2,int num3){
         return (num1 + num2) == num3;
