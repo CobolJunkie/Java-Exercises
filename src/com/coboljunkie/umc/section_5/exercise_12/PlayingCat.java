@@ -11,6 +11,7 @@ public class PlayingCat {
      * @param summer boolean to specify if its summer
      * @param temperature the temperature in celsius
      * @return true if the cat is playing
+     * @since v.01
      */
     public static boolean isCatPlaying(boolean summer, int temperature) {
         if (!summer && (temperature >= 25 && temperature <= 35)) {
