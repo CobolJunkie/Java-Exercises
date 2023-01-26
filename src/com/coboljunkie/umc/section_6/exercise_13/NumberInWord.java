@@ -1,6 +1,16 @@
 package com.coboljunkie.umc.section_6.exercise_13;
-
+/** This class contains a method to print out a number as a word to the console
+ *
+ * @author Coboljunkie
+ * @author cj at coboljunkie.com
+ * @version 0.1
+ **/
 public class NumberInWord {
+    /** This method prints out numbers as words depending on the parameter passed
+     *
+     * @param number the int number to be printed to console as a word
+     * @since 0.1
+     */
     public static void printNumberInWord(int number) {
         switch (number) {
             case 0:
