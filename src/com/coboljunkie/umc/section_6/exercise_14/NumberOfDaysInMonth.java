@@ -1,6 +1,16 @@
 package com.coboljunkie.umc.section_6.exercise_14;
-
+/** This class contains a method to calculate the number of days in any given Month
+ *
+ * @author Coboljunkie
+ * @author cj at coboljunkie.com
+ * @version 0.1
+ **/
 public class NumberOfDaysInMonth {
+    /** This method checks if a given year is a leap year
+     *
+     * @param year the year in int number format
+     * @return true if it is a leap year
+     */
 
     public static boolean isLeapYear(int year) {
 
@@ -17,6 +27,12 @@ public class NumberOfDaysInMonth {
         }
     }
 
+    /** this method calculates the amount of days in a specific month
+     *
+     * @param month the month to calculate the days from
+     * @param year the year this calculation happens in
+     * @return the amount of days.
+     */
     public static int getDaysInMonth(int month, int year) {
         if (month < 1 || month > 12 || year < 1 || year > 9999){
             return -1;
