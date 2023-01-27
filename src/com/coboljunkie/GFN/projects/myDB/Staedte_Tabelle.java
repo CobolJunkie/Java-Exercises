@@ -1,9 +1,9 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 
 import javax.swing.*;
 
-import static com.coboljunkie.GFN.myDB.DataManager.staedte;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.staedte;
 
 public class Staedte_Tabelle extends JTable {
 

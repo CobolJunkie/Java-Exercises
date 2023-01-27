@@ -1,8 +1,8 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import static com.coboljunkie.GFN.myDB.DataManager.*;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.*;
 
 public class Piloten_Tabelle extends JTable {
     public Piloten_Tabelle(Object[][] rowData, Object[] columns) {

@@ -1,6 +1,6 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
-import static com.coboljunkie.GFN.myDB.DataManager.fluege;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.fluege;
 
 import javax.swing.*;
 

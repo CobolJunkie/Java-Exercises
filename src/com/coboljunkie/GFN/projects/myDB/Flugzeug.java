@@ -1,9 +1,9 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import static com.coboljunkie.GFN.myDB.DataManager.*;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.*;
 
 public class Flugzeug extends DatabaseObject {
 

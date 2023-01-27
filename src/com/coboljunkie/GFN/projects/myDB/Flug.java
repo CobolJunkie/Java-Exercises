@@ -1,12 +1,12 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import static com.coboljunkie.GFN.myDB.DataManager.*;
-import static com.coboljunkie.GFN.myDB.Connector.*;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.*;
+import static com.coboljunkie.GFN.projects.myDB.Connector.*;
 
 public class Flug extends DatabaseObject {
 

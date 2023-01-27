@@ -1,9 +1,9 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import static com.coboljunkie.GFN.myDB.DataManager.*;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.*;
 
 /* Die Klasse Pilot repr�sentiert den Entit�tstypen Pilot aus unserem ERD
  Sie hat die selben Attribute wie die Tabelle Pilot in der Datenbank

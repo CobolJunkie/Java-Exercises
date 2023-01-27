@@ -1,4 +1,4 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 
 import javax.swing.BoxLayout;

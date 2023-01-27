@@ -1,11 +1,11 @@
-package com.coboljunkie.GFN.myDB;
+package com.coboljunkie.GFN.projects.myDB;
 
 
 import java.sql.SQLException;
 
-import static com.coboljunkie.GFN.myDB.Connector.commitWithoutResult;
-import static com.coboljunkie.GFN.myDB.Connector.exists;
-import static com.coboljunkie.GFN.myDB.DataManager.objektEntfernen;
+import static com.coboljunkie.GFN.projects.myDB.Connector.commitWithoutResult;
+import static com.coboljunkie.GFN.projects.myDB.Connector.exists;
+import static com.coboljunkie.GFN.projects.myDB.DataManager.objektEntfernen;
 
 public abstract class DatabaseObject {
 
