@@ -52,7 +52,7 @@ divide= 0.0 is printed because secondNumber is set to 0
 
 
 
-NOTE: All ​methods should be defined as public NOT public static.
+NOTE: All methods should be defined as public NOT public static.
 
 NOTE: In total, you have to write 8 methods.
 
