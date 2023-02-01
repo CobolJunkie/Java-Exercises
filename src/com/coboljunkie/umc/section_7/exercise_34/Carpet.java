@@ -8,6 +8,10 @@ package com.coboljunkie.umc.section_7.exercise_34;
 public class Carpet {
     private double cost;
 
+    /** Creates a Carpet object
+     *
+     * @param cost the cost of said carpet
+     */
     public Carpet(double cost) {
         this.cost = cost <0 ? 0 : cost;
     }
